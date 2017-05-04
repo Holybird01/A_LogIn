@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SignIn</string>
+
+    <string name="pickerview_cancel">取消</string>
+    <string name="pickerview_submit">确定</string>
+    <string name="pickerview_year">年</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_seconds">秒</string>
+
+    <string-array name="x_list">
+        <item>116.471727</item>
+        <item>116.472328</item>
+        <item>116.471989</item>
+        <item>116.472009</item>
+        <item>116.472029</item>
+        <item>116.472049</item>
+        <item>116.472059</item>
+        <item>116.472169</item>
+        <item>116.472279</item>
+        <item>116.472389</item>
+        <item>116.472499</item>
+        <item>116.472504</item>
+
+    </string-array>
+    <string-array name="y_list">
+        <item>39.914586</item>
+        <item>39.914951</item>
+        <item>39.914646</item>
+        <item>39.914636</item>
+        <item>39.914626</item>
+        <item>39.914616</item>
+        <item>39.914606</item>
+        <item>39.914612</item>
+
+    </string-array>
+</resources>
